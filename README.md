@@ -1,5 +1,6 @@
-# arduino_code_collection
-My source code through a month of Arduino experiment
+# Arduino Code Collection
+My source code through a month of Arduino experiment !
+( As I no longer work on this, I release it for newbies to move on faster )
 
 Those are simple, small projects written for Arduino playground in some sections. Just some projects are really invested more effort than others, like 315Mhz communication, G29 Shifter modification, and Joystick Mouse.
 
